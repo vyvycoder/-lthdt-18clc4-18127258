@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+repositories/http\:__download.eclipse.org_oomph_drops_nightly_N20190512-230208/enabled=false
+repositories/http\:__download.eclipse.org_oomph_drops_nightly_N20190512-230208/isSystem=true
+repositories/http\:__download.eclipse.org_oomph_drops_nightly_N20190512-230208/name=Oomph N20190512-230208
+repositories/http\:__download.eclipse.org_oomph_drops_nightly_N20190512-230208/suffix=content.xml
+repositories/http\:__download.eclipse.org_oomph_drops_nightly_N20190512-230208/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__download.eclipse.org_oomph_drops_nightly_N20190512-230208/uri=http\://download.eclipse.org/oomph/drops/nightly/N20190512-230208
+repositories/http\:__download.eclipse.org_oomph_drops_nightly_N20190512-230208/version=1.0.0

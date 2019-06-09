@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-155C23EF49A1FFB644F162858CE8CDAD_0000</CrashGUID>
+		<ProcessId>19832</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Crash</CrashType>
+		<SecondsSinceStart>40</SecondsSinceStart>
+		<GameName>UE4-Archon</GameName>
+		<GameChangelist>131970</GameChangelist>
+		<Branch>//dauntless/rel-0.8.0</Branch>
+		<IsLoading>false</IsLoading>
+		<IsLoadingIsland>false</IsLoadingIsland>
+		<IsLoadingCity>false</IsLoadingCity>
+		<Map>/Game/Maps/Map_LoginMenu?Name=Player</Map>
+		<PointOfInterest1>X=0.000 Y=0.000 Z=0.000</PointOfInterest1>
+		<PointOfInterest2>X=0.000 Y=0.000 Z=0.000</PointOfInterest2>
+		<ExecutableName>Dauntless-Win64-Shipping</ExecutableName>
+		<BuildConfiguration>Shipping</BuildConfiguration>
+		<GameSessionID />
+		<PETimeStamp>1556946313</PETimeStamp>
+		<PEImageSize>71958528</PEImageSize>
+		<PlatformName>WindowsClient</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName>Jackal</DeploymentName>
+		<EngineVersion>4.20.3-131970+++dauntless+rel-0.8.0</EngineVersion>
+		<CommandLine>-Archon -AUTH_LOGIN=unused -AUTH_PASSWORD=da6c65a9a63e4c6e914a76e701afee8e -AUTH_TYPE=exchangecode -epicapp=Jackal -epicenv=Prod -EpicPortal -epicusername=&quot;vyvy_hcmus&quot; -epicuserid=59c1b7ffbc5c49c481e64b18a37cd465 -epiclocale=en-US</CommandLine>
+		<LanguageLCID>1033</LanguageLCID>
+		<AppDefaultLocale>en-US</AppDefaultLocale>
+		<BuildVersion>++dauntless+rel-0.8.0-CL-131970</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>ngnth</UserName>
+		<BaseDir>D:/Games/Dauntless/Archon/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Games/Dauntless/</RootDir>
+		<MachineId>9A358AC142FFB4C5DA3454A144D6EF7E</MachineId>
+		<LoginId>9a358ac142ffb4c5da3454a144d6ef7e</LoginId>
+		<EpicAccountId>59c1b7ffbc5c49c481e64b18a37cd465</EpicAccountId>
+		<CallStack />
+		<PCallStack>Dauntless-Win64-Shipping 0x0000000090eb0000 + f68bf8 Dauntless-Win64-Shipping 0x0000000090eb0000 + 505ab8 Dauntless-Win64-Shipping 0x0000000090eb0000 + 4daf59 Dauntless-Win64-Shipping 0x0000000090eb0000 + 46be06 Dauntless-Win64-Shipping 0x0000000090eb0000 + 4a81f2 Dauntless-Win64-Shipping 0x0000000090eb0000 + 4ab571 Dauntless-Win64-Shipping 0x0000000090eb0000 + 539ee9 Dauntless-Win64-Shipping 0x0000000090eb0000 + 16ae333 Dauntless-Win64-Shipping 0x0000000090eb0000 + 4b9828 Dauntless-Win64-Shipping 0x0000000090eb0000 + 5010b5 Dauntless-Win64-Shipping 0x0000000090eb0000 + 23f6fe Dauntless-Win64-Shipping 0x0000000090eb0000 + d8c9b5 Dauntless-Win64-Shipping 0x0000000090eb0000 + 22670b Dauntless-Win64-Shipping 0x0000000090eb0000 + 226f88 Dauntless-Win64-Shipping 0x0000000090eb0000 + 226fca Dauntless-Win64-Shipping 0x0000000090eb0000 + 22fcdf Dauntless-Win64-Shipping 0x0000000090eb0000 + 290c727 KERNEL32 0x00000000922a0000 + 14034 ntdll 0x0000000092490000 + 73691</PCallStack>
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage />
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) UHD Graphics 620</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<GameStateName>GameState</GameStateName>
+		<MemoryStats.TotalPhysical>8485404672</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636948221242520000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
