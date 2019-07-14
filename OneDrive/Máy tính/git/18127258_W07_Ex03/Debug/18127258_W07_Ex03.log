@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Uni Learning\HOMEWORK\HK3 18-19\OOP\Lab Assignment\18127258_W07\18127258_W07_Ex03\main.cpp(5,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+D:\Uni Learning\HOMEWORK\HK3 18-19\OOP\Lab Assignment\18127258_W07\18127258_W07_Ex03\main.cpp(26,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Uni Learning\HOMEWORK\HK3 18-19\OOP\Lab Assignment\18127258_W07\18127258_W07_Ex03\main.cpp(28,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Uni Learning\HOMEWORK\HK3 18-19\OOP\Lab Assignment\18127258_W07\18127258_W07_Ex03\main.cpp(30,20): warning C4018:  '<': signed/unsigned mismatch
+  18127258_W07_Ex03.vcxproj -> D:\Uni Learning\HOMEWORK\HK3 18-19\OOP\Lab Assignment\18127258_W07\Debug\18127258_W07_Ex03.exe
